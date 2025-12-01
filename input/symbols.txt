@@ -1,0 +1,5 @@
+FB
+GOOG
+AAPL
+TSLA
+META
