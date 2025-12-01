@@ -1,0 +1,110 @@
+/* Global Page Style */
+body {
+  background: #0d0d0d;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main Container */
+.app-container {
+  max-width: 700px;
+  margin: auto;
+  padding-top: 50px;
+  text-align: center;
+}
+
+/* Title */
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #4aa8ff;
+  margin-bottom: 40px;
+  text-shadow: 0px 0px 10px #007bff;
+}
+
+/* Upload Section */
+.upload-box {
+  background: #111;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0px 0px 10px rgba(0, 144, 255, 0.4);
+  margin-bottom: 35px;
+}
+
+input[type="file"] {
+  padding: 10px;
+  background: #1a1a1a;
+  color: #4aa8ff;
+  border-radius: 10px;
+  border: 1px solid #333;
+}
+
+/* Blue Glowing Button */
+.predict-btn {
+  margin-left: 15px;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 10px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0px 0px 10px #0066cc;
+  transition: 0.3s;
+}
+
+.predict-btn:hover {
+  background: #0099ff;
+  box-shadow: 0px 0px 20px #0088ff;
+}
+
+/* Predictions Card */
+.result-card {
+  background: #111;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0px 0px 10px rgba(0, 144, 255, 0.4);
+  text-align: left;
+}
+
+.result-card h3 {
+  text-align: center;
+  color: #4aa8ff;
+  text-shadow: 0px 0px 6px #007bff;
+}
+
+.result-card ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.result-card li {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  border-bottom: 1px solid #222;
+  font-size: 16px;
+}
+
+.price {
+  color: #4aa8ff;
+  font-weight: bold;
+}
+
+.chart-card {
+  background: #111;
+  padding: 20px;
+  border-radius: 12px;
+  margin-top: 30px;
+  box-shadow: 0px 0px 10px rgba(0, 144, 255, 0.4);
+}
+
+.chart-card h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #4aa8ff;
+}
