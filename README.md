@@ -32,10 +32,10 @@ Download the Dataset needed for running the code from [here](https://drive.googl
 3. https://www.google.com/finance
 
 
-### Useful Links 
+<!-- ### Useful Links 
 - **Slides**: http://www.slideshare.net/SharvilKatariya/stock-price-trend-forecasting-using-supervised-learning
 - **Video**: https://www.youtube.com/watch?v=z6U0OKGrhy0
-- **Report**: https://github.com/scorpionhiccup/StockPricePrediction/blob/master/Report.pdf
+- **Report**: https://github.com/scorpionhiccup/StockPricePrediction/blob/master/Report.pdf -->
 
 ### References
 - [Recurrent Neural Networks - LSTM Models](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
