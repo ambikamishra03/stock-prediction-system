@@ -10,7 +10,9 @@ To examine a number of different forecasting techniques to predict future stock 
     $ python scripts/Algorithms/regression_models.py <input-dir> <output-dir>
 ```
 
-Download the Dataset needed for running the code from [here](https://drive.google.com/open?id=0B2lCmt16L_r3SUtrTjBlRHk3d1E).
+Download the Dataset needed for running the code from [here](https://drive.google.com/drive/folders/1gCtNTgAAEdQrmmEnDKqhW2GKL-BIeDtl?usp=sharing).
+
+Read project_instructions.txt for more clarity.
 
 ### Methodology 
 1. Preprocessing and Cleaning
