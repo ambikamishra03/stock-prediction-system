@@ -1,7 +1,7 @@
 # Stock Market Price Predictor using Supervised Learning
 
 ### Aim
-To examine a number of different forecasting techniques to predict future stock returns based on past returns and numerical news indicators to construct a portfolio of multiple stocks in order to diversify the risk. We do this by applying supervised learning methods for stock price forecasting by interpreting the seemingly chaotic market data.
+The aim of this project is to predict stock prices for the next 10 days using one year of historical market data by applying supervised machine learning techniques. The model analyzes past price patterns to forecast future trends, and the results are visualized by plotting both the actual and predicted stock price curves for comparison. This enables better understanding of stock behavior and supports more informed decision-making.
 
 ## Setup Instructions
 ```
