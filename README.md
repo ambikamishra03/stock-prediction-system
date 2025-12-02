@@ -61,6 +61,7 @@ Includes ML model, Flask backend, and React frontend.
 1️⃣ CLONE THE PROJECT
 --------------------------------------------------------------
 git clone https://github.com/ambikamishra03/stock-prediction-system.git
+
 cd StockPricePrediction
 
 --------------------------------------------------------------
@@ -79,14 +80,15 @@ source venv/bin/activate
 --------------------------------------------------------------
 pip install pandas numpy matplotlib scikit-learn yfinance notebook flask flask-cors
  
-To load output file
+To load output file:
+
 python scripts/fetch_stock_data1.py input/symbols.txt output/
 
 
 --------------------------------------------------------------
 4️⃣ RUN JUPYTER NOTEBOOK (OPTIONAL)
 --------------------------------------------------------------
-jupyter notebook
+jupyter notebook:
 (open stock_prediction_new.ipynb)
 
 --------------------------------------------------------------
@@ -98,7 +100,9 @@ Load CSV, visualize, train Linear Regression, predict next 10 days.
 6️⃣ RUN BACKEND (FLASK API)
 --------------------------------------------------------------
 cd backend
+
 pip install flask flask-cors pandas numpy scikit-learn
+
 python app.py
 
 Flask runs at: http://127.0.0.1:5000
@@ -107,7 +111,9 @@ Flask runs at: http://127.0.0.1:5000
 7️⃣ RUN FRONTEND (REACT)
 --------------------------------------------------------------
 cd ../client
+
 npm install
+
 npm start
 
 React runs at: http://localhost:3000
