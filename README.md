@@ -33,12 +33,6 @@ Read project_instructions.txt for more clarity.
 2. https://in.finance.yahoo.com
 3. https://www.google.com/finance
 
-
-<!-- ### Useful Links 
-- **Slides**: http://www.slideshare.net/SharvilKatariya/stock-price-trend-forecasting-using-supervised-learning
-- **Video**: https://www.youtube.com/watch?v=z6U0OKGrhy0
-- **Report**: https://github.com/scorpionhiccup/StockPricePrediction/blob/master/Report.pdf -->
-
 ### References
 - [Recurrent Neural Networks - LSTM Models](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [ARIMA Models](http://people.duke.edu/~rnau/411arim.htm)
